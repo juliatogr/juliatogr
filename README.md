@@ -16,12 +16,11 @@ My best repos:
 
 <a href="https://github.com/juliatogr/github-readme-stats">
   <img align="center" src= "https://github-readme-stats-juliatogr.vercel.app/api/pin/?username=juliatogr&repo=Alienated" />
-  <img align="center" src= "https://github-readme-stats-juliatogr.vercel.app/api/pin/?username=juliatogr&repo=3-dgame" />
+  <img align="center" src= "https://github-readme-stats-juliatogr.vercel.app/api/pin/?username=juliatogr&repo=3dgame" />
   <img align="center" src= "https://github-readme-stats-juliatogr.vercel.app/api/pin/?username=juliatogr&repo=MTL_P52" />
   <img align="center" src= "https://github-readme-stats-juliatogr.vercel.app/api/pin/?username=juliatogr&repo=BE_Java_Sprint5_Task1" />
   <img align="center" src= "https://github-readme-stats-juliatogr.vercel.app/api/pin/?username=juliatogr&repo=OptiDUMP" />
   <img align="center" src= "https://github-readme-stats-juliatogr.vercel.app/api/pin/?username=juliatogr&repo=Lab3_ACG" />
-  <img align="center" src= "https://github-readme-stats-juliatogr.vercel.app/api/pin/?username=juliatogr&repo=RT_ACG" />
 </a>
 
 
