@@ -14,7 +14,7 @@ Here you can find some of
 
 My best repos:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/juliatogr/github-readme-stats">
   <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=juliatogr&repo=Alienated" />
   <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=juliatogr&repo=MTL_P52" />
   <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=juliatogr&repo=BE_Java_Sprint5_Task1" />
@@ -26,7 +26,7 @@ My best repos:
 
 This is the resume of my activity on GitHub:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/juliatogr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=juliatogr&show_icons=true&theme=gotham" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliatogr&langs_count=8&layout=compact" />
 </a>
