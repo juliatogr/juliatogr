@@ -11,5 +11,10 @@ Here you can find some of
 - 🎹 Audiovisual projects in Python also for the University.
 - 🖼 Front-End in JavaScript/CSS/HTML to develop the visual interfaces on some aplications at both IT Academy and UPF.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juliatogr&show_icons=true&theme=gotham" />
+</a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliatogr)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliatogr&langs_count=8&layout=compact" />
+</a>
