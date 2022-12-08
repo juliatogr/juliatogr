@@ -10,3 +10,6 @@ Here you can find some of
 - 👾 Games developed in C++ as homework for the degree at Pompeu Fabra University
 - 🎹 Audiovisual projects in Python also for the University.
 - 🖼 Front-End in JavaScript/CSS/HTML to develop the visual interfaces on some aplications at both IT Academy and UPF.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliatogr)](https://github.com/anuraghazra/github-readme-stats)
