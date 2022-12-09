@@ -11,19 +11,6 @@ Here you can find some of
 - 🎹 Audiovisual projects in Python also for the University.
 - 🖼 Front-End in JavaScript/CSS/HTML to develop the visual interfaces on some aplications at both IT Academy and UPF.
 
-
-My best repos:
-
-<a href="https://github.com/juliatogr/github-readme-stats">
-  <img align="center" src= "https://github-readme-stats-juliatogr.vercel.app/api/pin/?username=juliatogr&repo=Alienated" />
-  <img align="center" src= "https://github-readme-stats-juliatogr.vercel.app/api/pin/?username=juliatogr&repo=3dgame" />
-  <img align="center" src= "https://github-readme-stats-juliatogr.vercel.app/api/pin/?username=juliatogr&repo=MTL_P52" />
-  <img align="center" src= "https://github-readme-stats-juliatogr.vercel.app/api/pin/?username=juliatogr&repo=BE_Java_Sprint5_Task1" />
-  <img align="center" src= "https://github-readme-stats-juliatogr.vercel.app/api/pin/?username=juliatogr&repo=OptiDUMP" />
-  <img align="center" src= "https://github-readme-stats-juliatogr.vercel.app/api/pin/?username=juliatogr&repo=Lab3_ACG" />
-</a>
-
-
 This is the resume of my activity on GitHub:
 
 <a href="https://github.com/juliatogr/github-readme-stats">
