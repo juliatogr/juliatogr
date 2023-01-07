@@ -14,8 +14,11 @@ Here you can find some of
 This is the resume of my activity on GitHub:
 
 <a href="https://github.com/juliatogr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-juliatogr.vercel.app/api?username=juliatogr&show_icons=true&theme=gotham" />
-  <img align="center" src="https://github-readme-stats-juliatogr.vercel.app/api/top-langs/?username=juliatogr&langs_count=8&layout=compact&theme=gotham" />
+  <p align="center>
+      <img src="https://github-readme-stats-juliatogr.vercel.app/api?username=juliatogr&show_icons=true&theme=gotham"/>
+  
+      <img src="https://github-readme-stats-juliatogr.vercel.app/api/top-langs/?username=juliatogr&langs_count=8&layout=compact&theme=gotham" />
+  </p>
 </a>
 
 
