@@ -1,7 +1,7 @@
 # Welcome to juliatogr GitHub Repo 👋
 
-I am Júlia and I amcurrently studying an Audiovisual Systems Engineering because I am passionate about both technology and audiovisuals.
-I aim to be a Software Developer at an audiovisual company.
+I am Júlia and I am currently studying an Audiovisual Systems Engineering because I am passionate about both technology and audiovisuals.
+I aim to be a Software Developer at an audiovisual company. I also have just finished a Back-End Java bootcamp at IT Academy.
 
 Here you can find some of
 
